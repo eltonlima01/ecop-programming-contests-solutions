@@ -12,8 +12,12 @@ Resoluções dos problemas propostos na Maratona de Programação do VIII Encont
 
 <div align="center">
 
-| #          | PROBLEMA  | LINGUAGEM    | CÓDIGO FONTE |
-| :---:      | :---:     | :---:        | :---:        |
-| A | [1009 - Salário com Bônus](https://judge.beecrowd.com/pt/problems/view/1009) | ![Static Badge](https://img.shields.io/badge/C99%20-%20white?style=flat-square&logo=C&logoColor=%23A8B9CC&color=white) | [`a.c`](/2026/warmup/a.c) |
+| #     | PROBLEMA                                                                           | LINGUAGEM | CÓDIGO FONTE              |
+| :---: | :---:                                                                              | :---:     | :---:                     |
+| A     | [1009 - Salário com Bônus](https://judge.beecrowd.com/pt/problems/view/1009)       | ![C99]    | [`a.c`](/2026/warmup/a.c) |
+| B     | [1026 - Carrega ou não carrega?](https://judge.beecrowd.com/pt/problems/view/1026) | ![C99]    | [`b.c`](/2026/warmup/b.c) |
 
 </div>
+
+<!-- Static Badges -->
+[C99]: https://img.shields.io/badge/C99%20-%20white?style=flat-square&logo=C&logoColor=%23A8B9CC&color=white
