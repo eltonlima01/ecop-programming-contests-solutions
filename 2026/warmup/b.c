@@ -3,7 +3,7 @@
 int main(void) {
   unsigned int a, z;
 
-  while(scanf("%u %u", &a, &z) != EOF) {
+  while (scanf("%u %u", &a, &z) != EOF) {
     printf("%u\n", a ^ z);
   }
 
