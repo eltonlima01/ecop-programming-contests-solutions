@@ -5,7 +5,6 @@ int main(void) {
   const char* chr = string;
 
   int n;
-
   scanf("%d", &n);
 
   while (n--) {

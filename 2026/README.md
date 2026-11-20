@@ -23,7 +23,7 @@ Resoluções dos problemas propostos na Maratona de Programação do VIII Encont
 | :---: | :---     | :---:     | :---:        |
 | A | [1435 - Matriz Quadrada I](https://judge.beecrowd.com/pt/problems/view/1435)                   | -- | -- |
 | B | [1564 - Vai ter copa?](https://judge.beecrowd.com/pt/problems/view/1564)                       | ![C99] | [`b.c`](/2026/problems/b.c) |
-| C | [1574 - Instruções do Robô](https://judge.beecrowd.com/pt/problems/view/1574)                  | -- | -- |
+| C | [1574 - Instruções do Robô](https://judge.beecrowd.com/pt/problems/view/1574)                  | ![C99] | [`c.c`](/2026/problems/c.c) |
 | D | [1789 - A Corrida de Lesmas](https://judge.beecrowd.com/pt/problems/view/1789)                 | ![C99] | [`d.c`](/2026/problems/d.c) |
 | E | [1837 - Prefácio](https://judge.beecrowd.com/pt/problems/view/1837)                            | -- | -- |
 | F | [1847 - Bem-vindos e Bem-vindas ao Inverno!](https://judge.beecrowd.com/pt/problems/view/1847) | -- | -- |
