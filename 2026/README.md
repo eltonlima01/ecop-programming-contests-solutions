@@ -28,7 +28,7 @@ Resoluções dos problemas propostos na Maratona de Programação do VIII Encont
 | E | [1837 - Prefácio](https://judge.beecrowd.com/pt/problems/view/1837)                            | -- | -- |
 | F | [1847 - Bem-vindos e Bem-vindas ao Inverno!](https://judge.beecrowd.com/pt/problems/view/1847) | -- | -- |
 | G | [1864 - Nossos Dias Nunca Voltarão](https://judge.beecrowd.com/pt/problems/view/1864)          | ![C99] | [`g.c`](/2026/problems/g.c) |
-| H | [1873 - Pedra-papel-tesoura-lagarto-Spock](https://judge.beecrowd.com/pt/problems/view/1873)   | -- | -- |
+| H | [1873 - Pedra-papel-tesoura-lagarto-Spock](https://judge.beecrowd.com/pt/problems/view/1873)   | ![C99] | [`h.c`](/2026/problems/h.c) |
 | I | [1933 - Tri-du](https://judge.beecrowd.com/pt/problems/view/1933)                              | -- | -- |
 | J | [2058 - Triângulos e Polígonos Regulares](https://judge.beecrowd.com/pt/problems/view/2058)    | -- | -- |
 
